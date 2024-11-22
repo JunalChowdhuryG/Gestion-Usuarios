@@ -61,8 +61,8 @@ project/
 
 1. Clonar o descargar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/aop-user-management.git
-   cd aop-user-management
+   git clone https://github.com/JunalChowdhuryG/Gestion-Usuarios.git
+   cd Gestion-Usuarios
    ```
 
 2. Ejecutar el archivo principal:
